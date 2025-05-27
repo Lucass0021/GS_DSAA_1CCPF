@@ -207,7 +207,7 @@ int main() {
         quantidade++;
       }
     } else if (opcao == 3) {
-      printf("Saindo do sistema...\n");
+      printf("Saindo do sistema....\n");
     } else {
       printf("Opcao invalida.\n");
     }
